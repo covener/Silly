@@ -14,6 +14,9 @@
     out.println("<p>Hit Count value for (" + (isNew ? "new session" : "existing session") + "): " + nextVal);
     out.println("<p>My URL: " + response.encodeURL(request.getServletPath()));
 
+
+
+
 %>
 
 </BODY> </HTML>
